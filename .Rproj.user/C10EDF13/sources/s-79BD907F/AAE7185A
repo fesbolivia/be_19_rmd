@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3716313736",
     "id" : "AAE7185A",
-    "lastKnownWriteTime" : 1583461135,
-    "last_content_update" : 1583461135,
+    "lastKnownWriteTime" : 1583461441,
+    "last_content_update" : 1583461441739,
     "path" : "~/Documents/consultorias/be_19_rmd/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "10,27",
+        "cursorPosition" : "5,81",
         "scrollLine" : "0"
     },
     "read_only" : false,
