@@ -53,7 +53,7 @@ Existen muchos datos relevantes al monitoreo de lo que denominamos el “voto no
 
 Algunas encuestas no reportan datos sobre el “voto no declarado”. En este caso se dejó en blanco la información para mostrar la ausencia.
 
-En caso de que algún candidato o candidata no estuviesen registrados en determinada encuesta, se completó este valor perdido con el valor más cercano. Por ejemplo, si la candidatura “x” fue computada para enero pero no para febrero, se repitió el valor de enero para febrero. El fin de esto es poder tener una proyección similar y comparable para todas las candidaturas.
+En caso de que algún candidato no estuviese registrado en determinada encuesta, se completó este valor perdido con el valor más cercano. Por ejemplo, si la candidatura “x” fue computada para enero pero no para febrero, se repitió el valor de enero para febrero, con el fin de tener una proyección similar y comparable para todas las candidaturas.
 
 
 Base de datos {data-icon="fa-database"}
