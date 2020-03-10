@@ -24,7 +24,7 @@ Row {.tabset .tabset-fade}
 <iframe frameBorder="0" src="img/tendencia_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Voto válido y no válido: Resultados ponderados
-<iframe frameBorder="0" src="img/g1.html" width="100%" height="100%" allowtransparency="true"></iframe>
+<iframe frameBorder="0" src="img/tendencia.html" width="100%" height="100%" allowtransparency="true"></iframe>
 
 ### Voto válido: Resultados sin ponderadar
 <iframe frameBorder="0" src="img/scatter_validos.html" width="100%" height="100%" allowtransparency="true"></iframe>
